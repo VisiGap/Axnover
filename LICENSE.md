@@ -1,6 +1,6 @@
 *** WARNING: ANY USE, REPRODUCTION, MODIFICATION, OR DISTRIBUTION OF THIS SOFTWARE IS STRICTLY PROHIBITED. ***
 
-Copyright (c) [Year] [Author/Copyright Holder]
+Copyright (c) [2025] [chuyuewei]
 
 All Rights Reserved.
 
@@ -14,11 +14,11 @@ Any and all permissions to use, access, or interact with the Software are hereby
 
 You may NOT perform any of the following actions with the Software:
 
-    a) USE: The Software may not be used for any commercial, personal, educational, non-profit, or any other purpose.
-    b) COPY: The Software may not be copied, in whole or in part.
-    c) MODIFY: The Software may not be modified, adapted, translated, or used to create derivative works.
-    d) DISTRIBUTE: The Software may not be distributed, redistributed, published, publicly displayed, or otherwise made available to any third party.
-    e) MERGE & SUBLICENSE: The Software may not be merged with any other software, nor may it be sublicensed in any form.
+    a. USE: The Software may not be used for any commercial, personal, educational, non-profit, or any other purpose.
+    b. COPY: The Software may not be copied, in whole or in part.
+    c. MODIFY: The Software may not be modified, adapted, translated, or used to create derivative works.
+    d. DISTRIBUTE: The Software may not be distributed, redistributed, published, publicly displayed, or otherwise made available to any third party.
+    e. MERGE & SUBLICENSE: The Software may not be merged with any other software, nor may it be sublicensed in any form.
 
 **3. Ownership and Intent**
 
